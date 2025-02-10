@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d45c909-388e-4c85-bc0b-897e76f8177f" name="Changes" comment="2025년 2월 7일 4교시 수업 내용">
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section01/generic/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section01/generic/GenericTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section01/generic/MyGenericTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/run/Application1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/Bunny.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/DrunkenBunny.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/Mammal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/MeaningOfvo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/Rabbit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/RabbitFarm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/Reptile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/Snake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ohgiraffers/section02/extend/vo/WildCardFarm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -78,18 +65,6 @@
       <recent name="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,6 +84,8 @@
       <workItem from="1738894369660" duration="3452000" />
       <workItem from="1738898420014" duration="4640000" />
       <workItem from="1738907088756" duration="19000" />
+      <workItem from="1739104866308" duration="1814000" />
+      <workItem from="1739145778541" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="2025년 2월 7일 2교시 수업 내용&#10;+&#10;2025년 2월 6일 알고리즘 스터디 내용&#10;근데 이게 여기 왜 들어감?">
       <option name="closed" value="true" />
@@ -134,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738899955766</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2025년 2월 7일 4교시 수업 내용">
+      <option name="closed" value="true" />
+      <created>1739104912876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739104912876</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
