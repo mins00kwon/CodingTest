@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f0dcdf5-69f9-4720-98cf-79635aae008d" name="Changes" comment="2025.02월.10일.2교시.">
-      <change afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/run/Application3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/run/Application4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/run/Application5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section02/set/run/Application1.java" afterDir="false" />
+    <list default="true" id="0f0dcdf5-69f9-4720-98cf-79635aae008d" name="Changes" comment="2025.02월.10일.3,4교시.">
+      <change afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section02/set/run/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section02/set/run/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section03/map/run/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/run/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/run/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/dto/BookDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/dto/BookDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/run/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hanhwa-Bootcamp/lecture/02_java/chap14-collection-lecture-source/src/com/ohgiraffers/section01/list/run/Application5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Application.executor": "Run",
     "Application.Application1.executor": "Run",
     "Application.Application2.executor": "Run",
     "Application.Application3.executor": "Run",
@@ -89,7 +90,7 @@
       <updated>1738907062459</updated>
       <workItem from="1738907063531" duration="24000" />
       <workItem from="1738907114622" duration="4608000" />
-      <workItem from="1739145789748" duration="11790000" />
+      <workItem from="1739145789748" duration="22148000" />
     </task>
     <task id="LOCAL-00001" summary="2025.02월.07일.5교시.">
       <option name="closed" value="true" />
@@ -123,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739152105651</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2025.02월.10일.3,4교시.">
+      <option name="closed" value="true" />
+      <created>1739158589022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739158589022</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +143,7 @@
     <MESSAGE value="2025.02월.07일.6교시." />
     <MESSAGE value="2025.02월.10일.1교시." />
     <MESSAGE value="2025.02월.10일.2교시." />
-    <option name="LAST_COMMIT_MESSAGE" value="2025.02월.10일.2교시." />
+    <MESSAGE value="2025.02월.10일.3,4교시." />
+    <option name="LAST_COMMIT_MESSAGE" value="2025.02월.10일.3,4교시." />
   </component>
 </project>
