@@ -20,7 +20,7 @@ public class Boj2003 {
 
 
         // region 100ms 풀이
-        /*int p1=0,p2=0,sum=arr[p1],count=0;
+        int p1=0,p2=0,sum=arr[p1],count=0;
         try{
             while(true){
                 if(p1==n||p2==n){break;}
@@ -40,7 +40,7 @@ public class Boj2003 {
 
             }
         }
-        catch (Exception e){        }*/
+        catch (Exception e){        }
         // endregion
 
         // region 144ms 풀이
