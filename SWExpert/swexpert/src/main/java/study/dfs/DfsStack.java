@@ -1,3 +1,5 @@
+package study.dfs;
+
 import java.util.Stack;
 
 public class DfsStack {

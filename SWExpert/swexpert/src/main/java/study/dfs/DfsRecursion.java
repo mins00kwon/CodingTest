@@ -1,3 +1,5 @@
+package study.dfs;
+
 public class DfsRecursion {
 
     // 방문처리에 사용할 배열 선언
